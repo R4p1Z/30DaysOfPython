@@ -18,3 +18,4 @@ print(type([1, 2, 3, 4]))        # list
 print(type({'name':'Chawakorn'})) # dict
 print(type((1,2)))               # tuple
 print(type(zip([1,2],[3,4])))    # zip
+
